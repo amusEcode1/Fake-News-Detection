@@ -30,7 +30,7 @@ The dataset used is the Fake and Real News Dataset (50,000+ samples).
 ![Confusion Matrix (Support Vector Machine (SVM))](images/confusion_matrix_svm.png)
 
 ### Model Comparison
-![Most frequent Positive and Negative Words](images/compare_model_accuracy.png)
+![model_accuracy_comparison](images/compare_model_accuracy.png)
 
 ### 📊 Model Performance Comparison
 | Model | Accuracy | Remarks |
