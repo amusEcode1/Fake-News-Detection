@@ -29,6 +29,9 @@ The dataset used is the Fake and Real News Dataset (50,000+ samples).
 ![Confusion Matrix (Logistic Regression)](images/confusion_matrix_logistic_regression.png)
 ![Confusion Matrix (Support Vector Machine (SVM))](images/confusion_matrix_svm.png)
 
+### Model Comparison
+![Most frequent Positive and Negative Words](images/compare_model_accuracy.png)
+
 ### 📊 Model Performance Comparison
 | Model | Accuracy | Remarks |
 |:---------------------------|:----------:|:----------------------|
@@ -72,7 +75,7 @@ Then open the local URL (usually http://localhost:8501/) in your browser.
 
 ## Try the App Online
 You can use the app directly here: [Review Predictor](https://news-detection.streamlit.app/)<br>
-Simply type any product review in the input box and click Predict to see the sentiment.
+Simply enter any news headline or article text in the input box and click **Predict** to see its category.
 
 ## 💡 Features
 - Clean and preprocess news text
