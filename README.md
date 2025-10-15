@@ -74,7 +74,7 @@ streamlit run app.py
 Then open the local URL (usually http://localhost:8501/) in your browser.
 
 ## Try the App Online
-You can use the app directly here: [Review Predictor](https://news-detection.streamlit.app/)<br>
+You can use the app directly here: [News Verifier](https://news-verifier.streamlit.app/)<br>
 Simply enter any news headline or article text in the input box and click **Predict** to see its category.
 
 ## 💡 Features
