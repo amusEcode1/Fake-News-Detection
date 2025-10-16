@@ -39,7 +39,7 @@ The dataset used is the Fake and Real News Dataset (50,000+ samples).
 | **Support Vector Machine (SVM)** | **99.76%** | 🏆 Best performance |
 
 ## 🧠 Tech Stack & Tools: 
-- Python (NumPy, Pandas, Matplotlib, Seaborn, WordCloud, BeautifulSoup, Scikit-learn)
+- Python (NumPy, Pandas, Matplotlib, Seaborn, WordCloud, BeautifulSoup, spaCy, Scikit-learn)
 - Streamlit — for model deployment and visualization
 - GitHub / Google Colab / Kaggle → for collaboration and experimentation
 
@@ -52,7 +52,7 @@ Before running this project locally, ensure the following are installed:
 - Matplotlib
 - Seaborn
 - BeautifulSoup4
-- NLTK
+- spaCy
 - Scikit-learn
 - WordCloud
 - Joblib
